@@ -1,0 +1,169 @@
+header {
+    width: 100%;
+    height: 20vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    box-shadow: 2px 30px 40px 1px rgba(78, 78, 78, 0.243);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  header nav {
+    width: 80%;
+    height: 20vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  header nav .logo {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  header nav .logo a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin: 0 auto;
+  }
+ 
+   a img {
+    width: 10vw;
+
+    transition: 0.8s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+ .ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    /* flex-direction: row; */
+  }
+  .li {
+    position: relative;
+    display: inline-block;
+  }
+  .li::before {
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background-color: rgb(12, 56, 93);
+    top: 35px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    transition: 1s;
+  }
+  .li:hover::before {
+    width: 100%;
+  }
+  .a {
+    margin: 0 auto;
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    transition: 1s;
+  }
+  .a:hover {
+    font-size: 16px;
+    color: rgb(7, 114, 202)}
+    .navblokbos{
+      background-color: aqua;
+      width: 40%;
+    }
+    /*------------------------------- dil deyişme ------------------------- */
+    /* navbar.css */
+/* navbar.css */
+/* navbar.css */
+/* navbar.css */
+
+/* NavDropdown başlığı üçün stil */
+#language-switcher {
+  background-color: transparent;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  margin-left: 20px; /* Dil dəyişdirici üçün margin */
+  position: relative;
+}
+
+#language-switcher .dropdown-toggle {
+  color: #fff !important;
+  font-weight: bold;
+  padding: 10px 20px;
+  background: linear-gradient(45deg, #007bff, #00d4ff);
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+#language-switcher .dropdown-toggle::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  background: linear-gradient(45deg, #007bff, #00d4ff);
+  z-index: -1;
+  border-radius: 12px;
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+#language-switcher .dropdown-toggle:hover::before {
+  opacity: 1;
+}
+
+#language-switcher .dropdown-toggle:hover {
+  color: #fff !important;
+  background: linear-gradient(45deg, #00d4ff, #007bff);
+}
+
+#language-switcher .dropdown-menu {
+  border-radius: 8px;
+  overflow: hidden;
+  border: none;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(45deg, #007bff, #00d4ff);
+  padding: 0;
+  margin-top: 5px;
+}
+
+#language-switcher .dropdown-item {
+  color: #fff;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  background: none;
+}
+
+#language-switcher .dropdown-item:hover {
+  background-color: rgb(12, 56, 93);
+  color: #fff;
+}
+
+#language-switcher .dropdown-item:active {
+  background-color: rgb(12, 56, 93);
+  color: #fff;
+}
+
+.navbar-nav .nav-link {
+  white-space: nowrap; /* Mətnin bir sətirdə göstərilməsi */
+  display: inline-block;
+}

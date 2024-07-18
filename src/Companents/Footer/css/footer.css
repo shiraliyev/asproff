@@ -1,0 +1,157 @@
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #2c2b2b;
+    box-shadow: 2px 20px 20px 21px rgba(101, 102, 150, 0.136);
+    padding: 70px 30px 50px 30px;
+  }
+  .footeresas{
+    display: flex;
+    align-items: center;
+  }
+  footer .footerblok {
+    width: 20%;
+    height: 60%;
+    margin: 0 auto;
+  }
+  footer .footerblok .footerblok01 {
+    width: 100%;
+    height: 15%;
+    padding: 10px 30px;
+  }
+  footer .footerblok .footerblok01 h4 {
+    color: #fff;
+  }
+  footer .footerblok .footerblok02 {
+    width: 100%;
+    height: 85%;
+    display: flex;
+  }
+  footer .footerblok .footerblok02 ul {
+    list-style: none;
+  }
+  footer .footerblok .footerblok02 ul li {
+    margin: 20px 0px;
+  }
+  footer .footerblok .footerblok02 ul li p {
+    font-size: 13px;
+    color: #fff;
+  }
+ 
+  .footerlistlinkedina{
+    text-decoration: none;
+    color: #fff;
+    transition: 0.3s;
+  }
+  .footerlistlinkedina:hover{
+    color: rgb(7, 74, 133);
+}
+.icon-text {
+  margin-left: 1em; /* veya istediğiniz miktar */
+}
+.fa-linkedin{
+  font-size: 20px;
+}
+.footeralt{
+  width: 100%;
+  height: auto;
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.footeralt h5{
+color: #fff;
+font-size: 15px;
+
+}
+.footeralt h6{
+color: #fff;
+font-size: 12px;
+
+}
+
+
+
+ /*-------------------- RESPONSİVLİK ------------------------*/
+  /* Küçük Ekranlar (Telefonlar) */
+  @media only screen and (max-width: 600px) {
+    /* Örnek: İçerikleri sıralı sütunlar haline getir */ 
+     .team .container { 
+      flex-direction: column;
+    } 
+    /* Örnek: Metin boyutlarını küçült */
+    .aboutsec3 .sec3div1 h2 { 
+      font-size: 1.5rem;
+    } 
+    /* Görüntü boyutlarını ayarla */
+  .team-member img {
+      width: 100px;
+      height: 100px;
+    }
+    footer {
+      width: 100%;
+      height: auto;
+      background-color: #2c2b2b;
+      box-shadow: 2px 20px 20px 21px rgba(101, 102, 150, 0.136);
+      padding: 70px 0 200px 0;
+    }
+    .footeresas{
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    footer .footerblok .footerblok01 {
+      width: 100%;
+      height: 15%;
+      padding: 10px 0;
+    }
+    
+    
+  } 
+  
+  /* Orta Ekranlar (Tabletler) */
+  @media only screen and (min-width: 600px) and (max-width: 1024px) {
+    /* Örnek: İçeriği 2 sütuna ayır */
+    .team .container {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+    /* Örnek: Metin boyutlarını ayarla */
+    .aboutsec3 .sec3div1 h2 { 
+      font-size: 2rem;
+    } 
+    /* Görüntü boyutlarını ayarla */
+     .team-member img {
+      width: 120px;
+      height: 120px;
+    } 
+    footer {
+      width: 100%;
+      height: auto;
+      background-color: #2c2b2b;
+      box-shadow: 2px 20px 20px 21px rgba(101, 102, 150, 0.136);
+      padding: 70px 0 200px 0;
+    }
+  
+  }
+  
+ /* Büyük Ekranlar (Masaüstü) */ 
+ @media only screen and (min-width: 1025px) {
+     /* Örnek: İçeriği 3 sütuna ayır */ 
+     .team .container {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }  
+    /* Örnek: Metin boyutlarını büyüt */
+     .aboutsec3 .sec3div1 h2 {
+      font-size: 2.5rem;
+    } 
+    /* Görüntü boyutlarını ayarla */ 
+    .team-member img {
+      width: 150px;
+      height: 150px;
+    }
+  }
+   
