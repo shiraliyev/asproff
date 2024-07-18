@@ -15,13 +15,16 @@ function NavBar() {
     localStorage.setItem('selectedLanguage', lng);
   };
 
-    const capitalize = (str) => {
+  const capitalize = (str) => {
     return str.charAt(0).toUpperCase() + str.slice(1);
   };
+
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="/"><a href="/"><img src="img/logonav.PNG" alt=""/></a></Navbar.Brand>
+        <Navbar.Brand href="/">
+          <img src="img/logonav.PNG" alt=""/>
+        </Navbar.Brand>
         <div className="navblokbos"></div>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
