@@ -1,3 +1,5 @@
+import { useTranslation } from 'react-i18next';
+
 const Data = [
     {
         _id: "1",
@@ -12,24 +14,19 @@ const Data = [
         zaman: "27.03.2024"
       
     },
-    {
-        _id: "3",
-        İxtisas: "Developer",
-        konum: "Yasamal",
-        zaman: "27.03.2024"
-    },
+    
     {
       _id: "4",
-      İxtisas: "Helpdesk",
+      İxtisas: "Xadimə",
         konum: "Yasamal",
-        zaman: "27.03.2024"
+        zaman: "29.03.2024"
       
     },
     {
         _id: "5",
         İxtisas: "Xadimə",
           konum: "Yasamal",
-          zaman: "27.03.2024"
+          zaman: "22.03.2024"
         
       },
     

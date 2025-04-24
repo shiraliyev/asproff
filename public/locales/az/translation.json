@@ -3,20 +3,35 @@
     "about": "Haqqımızda",
     "contact": "Əlaqə",
     "career": "Karyera",
-    "our_companies": "Şirkətlərimiz",
     "language": "Dil",
+    "dashinma": "Daşınma xidməti",
+    "nezaret": "Nəzarət xidməti",
     
+    "TikintiMateriallari": "Tikinti materialları ",
+
+    
+
+"Concrete_transportation": "Beton daşınması",
+"Quality_control": "Keyfiyyətə nəzarət",
+"Concrete_pumping": "Beton pompalama",
+"Products": "Məhsullar",
+"GALLERY": "Qalereya",
+"Concreteproducts": "Beton məhsulları",
+"Constructionequipment": "İnşaat avadanlıqları",
+
     "number":"Telefon nömrəsi",
     "Email":"E-poçt",
 
       "about_us": "Haqqımızda",
-      "trust_and_progress": "Güvənlə yüksələk, inamla addımlayaq!",
-      "as_prof_group_intro": "AS PROF Group olaraq müştərilərimizlə birgə güclü bir dünya yaratmaq üçün çalışırıq. Bizim əsas məqsədimiz müştərilərimizə keyfiyyətli və etibarlı xidmətlər təqdim etməkdir. Hər bir müştərimizə fərdi yanaşma tətbiq edərək onların tələblərini və ehtiyaclarını anlamağa çalışırıq. İnovasiya və müasir texnologiyalar vasitəsilə iş proseslərini optimallaşdıraraq, ən son yenilikləri tətbiq edirik. Eyni zamanda, çevik və adaptiv xidmət modelimizlə müştərilərimizin dəyişən ehtiyaclarına sürətli və effektiv cavab veririk. AS PROF Group olaraq, yalnız bu gün üçün deyil, gələcək üçün də müştərilərimizin yanında olmağı və uzunmüddətli əməkdaşlıqlar qurmağı hədəfləyirik.",
+      "trust_and_progress": "Hər zaman yüksək keyfiyyətli xidmət təqdim edirik!",
+      "as_prof_group_intro": "Profbeton, beton sahəsində müştərilərinin tələblərinə uyğun ən yaxşı məhsulları istehsal edir. Bizim məqsədimiz yalnız yüksək keyfiyyətli məhsullar təqdim etmək deyil, həm də müştərilərimizin ehtiyaclarını anlamaq və onlara ən uyğun həllər təqdim etməkdir. Profbeton, güvənli və dayanıqlı nəticələr əldə etmək üçün daim yanınızda olan bir tərəfdaşdır. Müştərilərimizə uzunmüddətli və etibarlı həllər təqdim edərək onların işlərini daha da asanlaşdırırıq. Bizim üçün hər layihə fərdi yanaşma tələb edir və hər zaman müştəri məmnuniyyətini ön planda tuturuq.",
       "our_goal": "Məqsədimiz",
-      "trust_and_progress_2": "Güvənlə irəliləyək, inamla yüksələk hədəflərimizə doğru.",
-      "as_prof_group_goal": "\"AS PROF Qrupu kimi, müştərilərimizlə birlikdə hədəflərimizin inkişafına səyləməyimiz. Bizim əsas məqsədimiz, müştərilərimizə keyfiyyətli və etibarlı xidmətlər təqdim etmək, onların tələblərini və ehtiyaclarını anlamaq, inovasiya və müasir texnologiyalardan istifadə edərək iş proseslərini optimallaşdırmaqdır. Biz, yalnız bu gün üçün deyil, gələcək üçün də müştərilərimizin yanında olmağı və uzunmüddətli əməkdaşlıqlar qurmağı hədəfləyirik.\"",
+      "Profbetonmeqsedbasliq": "Gələcəyə birgə addımlayaq, uğura doğru birlikdə yüksələk.",
+      "Profbetonmeqsedtext": "Profbeton olaraq əsas məqsədimiz, müştərilərimizlə birgə əməkdaşlıq əsasında tikinti sahəsində dəyər yaratmaqdır. Biz, müştərilərimizin tələblərinə diqqətlə yanaşaraq, onlara keyfiyyətli və dayanıqlı həllər təqdim etməyə çalışırıq. Məqsədimiz, innovativ texnologiyalardan istifadə edərək istehsalat proseslərimizi optimallaşdırmaq, hər zaman müştərilərimizin gözləntilərini qarşılamaq və onlarla uzunmüddətli işgüzar əlaqələr qurmaqdır. Biz, yalnız bu günün layihələrini deyil, gələcək nəsillərə etibarlı tikinti təməlləri qoymağı hədəfləyirik. Profbeton – davamlı inkişafa və etibarlı tərəfdaşlığa gedən yolda sizin yanınızdadır",
       "homesec1binatext": "    Etimadımızın dəyərini hiss edərək, dürüstlük, keyfiyyət, effektivlik, əməkdaşlıq və sahibkarlıq əsasında qurulu strategiyamıza güvənirik.",
-    
+      "bordyur": "Bordyur",
+      "bordyurtext": "Bordyur yolların kənarını ayıran daşdır.",
+      "bordyurmodaltext": "Bordyur, yolların və səkilərin kənarlarını ayıran düz və ya əyri formalı daşlardır. Beton, daş və ya asfalt materiallardan hazırlanır və su axını yönləndirmək, ərazinin estetik görünüşünü yaxşılaşdırmaq üçün istifadə olunur. Bordyurlar şəhərsalma, landşaft dizaynı və yol tikintisində geniş tətbiq olunur.",
 
 
       "companies": "Şirkətlərimiz",
@@ -25,15 +40,7 @@
     "services": "Xidmətlərimiz",
     "profbeton_intro": "Profbeton MMC şirkəti sənaye və tikinti material istehsalı",
     "profbeton_description": "Həm çoxmərtəbəli tikinti, həm də özəl sektor üçün hazır beton, məhlul, aqreqat və dəmir-beton məhsulları tədarük edirik. Öz maşın parkımız və muzdlu nəqliyyat vasitələrini cəlb etmə qabiliyyətimiz bizə istənilən miqdarda iş görmə imkanı verir.",
-    "fire_safety_intro": "Yanğınla mübarizə və həyat xilasetmə avadanlıqlarının təchizi və təmiri.",
-    "fire_safety_description": "Əsas fəaliyyət istiqaməti obyektlərində xilasetmə avadanlıqların, ilkin yanğınsöndürmə, yanğından mühafizə, yanğın xəbərverici sistem və vasitələrinin satışı, quraşdırılması, texniki xidməti, təmiri və keyfiyyətinin bərpası işlərinin aparılmasıdır.",
-    "as_lift_intro": "AS LİFT & ELEVATOR MMC",
-    "as_lift_description": "Müxtəlif növ Lift, Eskalator, İnşaat Liftləri, BMU (Fasada Xidmət Avadanlıqları), Avtomatik Giriş Sistemləri, Yanğın Çıxış Qapıları, Rampa və Körük Sistemləri üzrə satışların reallaşdırılması və texniki servis xidmətlərinin göstərilməsi.",
-    "as_prof_intro": "Peşəkar mühəndislik məsləhət və dəstək xidmətləri.",
-    "as_prof_description": "Engineering konsalting mühəndislik layihələrinin dizaynı və planlaşdırılması, mövcud sistemlərin texniki yoxlanışı, mühəndislik problemlərinin həlli və iş proseslərinin təkmilləşdirilməsi, layihələrin risk analizi və təhlükəsizlik təminatı, mühəndislik layihələrinin idarə olunması və nəzarəti və eləcə də müqavilələrin hazırlanması.",
-    "baku_construction_intro": "İzoliyasiyanın növləri",
-    "baku_construction_description": "İzolyasiya binanızın ətrafında istilik müqaviməti yaratmaq, pul qənaət etmək və rahat yer yaratmaq üçün istifadə olunur. İzolyasiya düzgün qurulduğunda istilik və soyutma xərclərini bina içərisində sərin havanın saxlanılması və istilik itkilərinin azalması ilə azaldır.",
-
+    
 
 
     "Vacancies": "Vakansiyalar",
@@ -44,27 +51,7 @@
         "vshirketlernavbeton2": "Həm çoxmərtəbəli tikinti, həm də özəl sektor üçün hazır beton, məhlul, aqreqat və dəmir-beton məhsulları tədarük edirik. Öz maşın parkımız və muzdlu nəqliyyat vasitələrini cəlb etmə qabiliyyətimiz bizə istənilən miqdarda iş görmə imkanı verir. Hər beton dəsti üçün pasport və keyfiyyət sertifikatı veririk. Hazır betonun hər partiyası üçün keyfiyyətə nəzarət edirik. Betonumuz istehsalçıdan betondur. Profbeton şirkəti üçün ən önəmli geniş bir müştərisi ilə konstruktiv, qarşılıqlı faydalı əməkdaşlıq, onların ehtiyac və istəklərinin maksimum dərəcədə təmin edilməsidir.",
         "shirketlernavkechid": "Keçid",
 
-        "shirketlernavlift1": "Müxtəlif növ Lift, Eskalator  satışlarının reallaşdırılması və texniki servis xidmətlərinin göstərilməsi",
-        "shirketlernavlift2": "Müxtəlif növ Lift, Eskalator, İnşaat Liftləri, BMU (Fasada Xidmət Avadanlıqları), Avtomatik Giriş Sistemləri, Yanğın Çıxış Qapıları, Rampa və Körük Sistemləri üzrə satışların reallaşdırılması və texniki servis xidmətlərinin göstərilməsi bizim əsas fəaliyyət sahələrimizdən biridir. Biz, müştərilərimizin iş yerlərində və ya yaşayış mülklərində təhlükəsiz və müstəqil hərəkət etmələri üçün təminatları təmin etməklə məşğul oluruq. Liftlər və eskalatorlar, insanların binaların daxilində asanlıqla hərəkət etməsini təmin edir, inşaat liftləri bina inşaatı zamanı işçilərin və materialların asanlıqla yüksəlməsini və endirlməsini təmin edir. BMU və rampalar, fasad işlərində və ya hərəkət qabiliyyəti məhdud olan şərtlərdə çalışanlar üçün təhlükəsiz iş mühitini təmin edir. Yanğın çıxış qapıları və avtomatik giriş sistemləri, təhlükəsiz bir şəkildə binalardan çıxmaq və ya giriş etmək üçün effektiv yollar təmin edir. Rampa və körük sistemləri isə hərəkət edə bilməyən və ya daha dəyişiklik göstərməyə gücü yetməyən insanlar üçün məkanlara daxil olmağı və ya çıxmağı asanlaşdırır. Bizim məqsədimiz, müştərilərimizin təhlükəsizlik və rahatlığını təmin etmək üçün peşəkar və texniki dəstək təmin etməkdir.",
-
-        "shirketlernaASPEK1": "Şirkət və fərdlərə mühəndislik sahəsində peşəkar məsləhət və dəstək xidmətləri göstərməkdir",
-        "shirketlernavASPEK2": "Engineering konsalting mühəndislik layihələrinin dizaynı və planlaşdırılması, mövcud sistemlərin texniki yoxlanışı, mühəndislik problemlərinin həlli və iş proseslərinin təkmilləşdirilməsi, layihələrin risk analizi və təhlükəsizlik təminatı, mühəndislik layihələrinin idarə olunması və nəzarəti və eləcə də müqavilələrin hazırlanması bizim sahələrdən biridir. Biz, müştərilərimizin layihələrinin həyata keçirilməsində onlara mütəmadiyyətlə dəstək olmaq üçün mühəndislik konsalting xidmətləri təklif edirik. Layihələrin mərhələli və effektiv həyata keçirilməsi üçün ən yaxşı həllərə nail olmağa çalışırıq. Layihələrin texniki yoxlanışı və risk analizi ilə başlayaraq, mövcud sistemlərin effektiv işləməsini təmin edirik. Mühəndislik problemlərinin həlli və iş proseslərinin təkmilləşdirilməsi üçün peşəkar mühəndislərimiz müştərilərimizə texniki dəstək təmin edir. Həmçinin, layihələrin idarə olunması, nəzarəti və müqavilələrin hazırlanması sahələrində də müştərilərimizin yanındayıq. Ammaçlarımız, müştərilərimizin layihələrini mümkün olan ən yaxşı şəkildə həyata keçirmələrinə kömək etməkdir."
-,
-
-
-        "shirketlernaBCC1": "İzoliyasiya",
-        "shirketlernavBCC2": "İzolyasiya, binanızın ətrafında istilik müqaviməti yaratmaq, pul qənaət etmək və rahat bir mühit yaratmaq üçün istifadə olunur. İzolyasiya, düzgün qurulduğu təqdirdə istilik və soyutma xərclərini bina içərisində sərin havanın saxlanılması və istilik itkilərinin azalması ilə azaldır. Bu, binanın məkanlarının daha qomşuluq və rahat olmasına kömək edir, həm də istilik və soyutma sistemlərinin işləmə vaxtını və maliyyəni azaldır. İzolyasiya tədbirləri, binanın içində məkan sərinliyinin qorunması və istilik itkilərinin minimalizasiyası ilə nəticələnir. Bu da enerji səmərəliliyini artırır və uzun müddətli pul qənaət edir."
-
-        
-        ,
-
-
-        "shirketlernaFire1": "Yanğınla mübarizə və həyat xilasetmə avadanlıqlarının təchizi və təmiri.",
-        "shirketlernavFire2": "Əsas fəaliyyət istiqaməti obyektlərində xilasetmə avadanlıqlarının, ilkin yanğınsöndürmə, yanğından mühafizə, yanğın xəbərverici sistem və vasitələrinin satışı, quraşdırılması, texniki xidməti, təmiri və keyfiyyətinin bərpası işlərinin aparılmasıdır. Bu fəaliyyətlər, müştərilərin təhlükəsizlik və təhlükəsizlik tədbirləri ehtiyatlarını təmin etmək və mövcud olan yanğın risklərinə qarşı qorunmaq üçün əlavə tədbirləri almaq üçün nəzərdə tutulur. Xilasetmə avadanlıqları, yanğınsöndürmə sistemləri və digər təhlükəsizlik ehtiyatları, mövcud olan yanğınları yox etmək və ya yanğının yayılmasını dayandırmaq üçün əsaslı bir tədbir təşkil edir. Bu sahədə təcrübəli və keyfiyyətli xidmətlər təklif etmək, müştərilərin güvənini qazanmaq və təhlükəsizlik standartlarına riayət etmək əsas məqsədlər arasındadır."
-
-
-
-        ,
+       
 
 
         "shirketlernakomanda-rehberlik1": "Rəhbərlik",
@@ -73,9 +60,122 @@
         "shirketlernakomanda-muraciet2": "Muraciət et"
         
         ,
-        "shirketlernakomanda-footer1": "Bütün hüquqlar qorunur © 2024 · ASProf Group"
+        "shirketlernakomanda-footer1": "Bütün hüquqlar qorunur © 2025 · Profbeton"
         
+        ,
+
+        "keyfiyyetenezaret": "Keyfiyyətə nəzarət",
+        "istehsalprosesinenezaret": "İstehsal prosesinə nəzarət",
+        "Betonlaboratoriyalari": "Beton laboratoriyaları",
+        "Sementxemiri": "Sement xəmiri"
+        ,
+
+        "keyfiyyetenezarettext": "Betonun dayanıqlılığı üçün hər mərhələdə keyfiyyətə xüsusi nəzarət edilir.",
+        "istehsalprosesinenezarettext": "Hər mərhələdə keyfiyyətin təmin edilməsi üçün tam nəzarət.",
+        "Betonlaboratoriyalaritext": "Betonun keyfiyyəti və gücü xüsusi laboratoriya testləri ilə yoxlanılır.",
+        "Sementxemiritext": "Möhkəm və dayanıqlı beton üçün uyğun nisbətdə sement xəmiri hazırlanır."
+        ,
+"tehlukesizlikenazarat": "Təhlükəsizlikə nəzarət",
+  "tehlukesizlikenazarattext": "İş yerində təhlükəsiz şəraitin təmin edilməsi",
+"tehlukesizlikenazarattextmodal": "Profbeton şirkətində Təhlükəsizlikə nəzarət iş yerində hər hansı bir riskin qarşısını almağa yönəlmişdir. Şirkət işçilərin sağlamlığını qorumaq üçün təhlükəsizlik qaydalarına riayət edir, mütəmadi yoxlamalar aparır və təlimlər keçirir. Təhlükəsiz iş şəraiti yaratmaq üçün bütün risklər diqqətlə analiz edilir və müvafiq tədbirlər görülür.",
+
+        "keyfiyyetenezarettextmodal": "Keyfiyyətə nəzarət məhsul və xidmətlərin standartlara uyğunluğunu, dayanıqlığını və təhlükəsizliyini təmin edən prosesdir. Profbeton MMC bu prosesdə məhsul və xidmətlərin yoxlanılması, zəmanəti və çatdırılmasının keyfiyyətinə davamlı nəzarət edir.",
+        "istehsalprosesinenezarettextmodal": "Profbeton MMC, istehsal prosesinə beynəlxalq İSO 9001 keyfiyyət idarəetmə sistemi və normativ-texniki sənədlərə uyğun nəzarət edir. Şirkətimiz bu sistemləri davamlı tətbiq edərək, xammal və hazır məhsulların keyfiyyətinin beynəlxalq standartlara uyğun olmasını təmin edir.",
+        "Betonlaboratoriyalaritextmodal": "İstehsal olunan beton məhsullarının yüksək keyfiyyətini təmin etmək üçün xammalın, mineral əlavələrin və hazır məhsulun keyfiyyəti zavoda məxsus, beynəlxalq standartların tələblərinə cavab verən müasir laboratoriyada mütəmadi olaraq sınaqdan keçirilir. Bu da betonun sukeçirməzlik, şaxtayadavamlılıq və sulfatadavamlılıq xüsusiyyətlərini təmin edir.",
+        "Sementxemiritextmodal": "Beton qarışığı beş əsas tərkib hissədən ibarətdir: Su, sement, doldurucular, kimyəvi və mineral əlavələr. Su və sement plastik kütlə (sement xəmiri) əmələ gətirir və hidrotasiya adlanan kimyəvi reaksiya nəticəsində birləşərək materialları süxura bənzər kütləyə çevirir."
+        ,
+
+        "xidmetlerbetondashima": "Beton daşınması",
+        "xidmetlerkeyfiyyetenezaret": "Keyfiyyətə nəzarət",
+        "xidmetlerbetonpompalama": "Beton pompalama",
+        "xidmetlerbetondashimabloktext": "Təhlükəsiz və vaxtında betonun istənilən ünvana çatdırılması təmin edilir",
+        "xidmetlerkeyfiyyetenezaretbloktext": "Məhsul keyfiyyətini təmin etmək üçün nəzarət",
+        "xidmetlerbetonpompalamabloktext": "Sürətli və dəqiq beton yayılması üçün müasir və güvənli avadanlıqlar istifadə olunur.",
+        "xidmetlerbetonpompalamamodaltext": "Beton pompalama xidməti betonu xüsusi nasoslar vasitəsilə çətin ərazilərə, hündürmərtəbəli binalara və dar yerlərə tez və düzgün şəkildə çatdırır. Bu proses tikinti zamanı işin sürətini artırır, betonu bərabər paylayır və keyfiyyətini qoruyur. Profbeton şirkəti müasir avadanlıqlarla təhlükəsiz və yüksək standartlara uyğun beton pompalama xidmətini təqdim edir.",
+
+        "emteebetonu": "Əmtəə betonu",
+        "Sekidashlari": "Səki daşları",
+        "Metalkarkas": "Metal karkas",
+        "Divarbloklari": "Divar blokları",
+        "Betonvequmchinqilistehsali": "Beton və qum-çınqıl istehsalı",
+        "Sement": "Sement",
+        "layiheler": "Layihələr"
+
+        ,
+        "yukdashimaxidmeti": "Yükdaşıma xidməti",
+        "Universalkonteynerlerindashinmasi": "Universal konteynerlərin daşınması",
+        "Demirdashima": "Dəmir daşıma",
+        "yukdashimaxidmetitext": "Yüklərinizin təhlükəsiz və tez çatdırılmasını təmin edirik.",
+        "Universalkonteynerlerindashinmasitext": "Fərqli ölçülü konteynerlərin etibarlı və səliqəli daşınması.",
+        "Demirdashimatext": "Dəmir məhsullarının peşəkar və dayanıqlı nəqli.",
+        "Concrete_transportationtext": "Betonun sağlam şəkildə və vaxtında çatdırılması."
+
+        ,
+        "yukdashimaxidmetimodal": "Yük daşıma xidməti ilə, müxtəlif həcmli və kateqoriyalı yüklərinizi istədiyiniz ünvana təhlükəsiz və operativ şəkildə çatdırırıq. İxtisaslaşmış sürücülər və güclü nəqliyyat vasitələrimiz yüklərin təhlükəsiz daşınmasını təmin edir. Sifariş əsasında planlaşdırma və izləmə sistemimiz, yüklərin vaxtında çatdırılmasını və istənilən yerə səlis çatdırılmasını təmin edir.",
+        "Universalkonteynerlerindashinmasimodal": "Universal konteyner daşınma xidməti, yüklərin təhlükəsiz və rahat şəkildə çatdırılması üçün optimal həllər təqdim edir. Standart ölçülərə uyğun konteynerlər çətin şəraitlərdə belə mühafizəni təmin edir, həm yerli, həm də beynəlxalq daşımalar üçün idealdır.",
+        "Demirdashimamodal": "Dəmir daşınması xidmətimiz tikinti və sənaye sahələrində istifadə üçün nəzərdə tutulmuş dəmir materiallarını ehtiyacınıza uyğun şəkildə ünvanınıza çatdırır. Bu xidmət, dəmir məhsulların istənilən ölçü və çəkidə təhlükəsiz daşınmasını təmin edir. İxtisaslaşmış nəqliyyat vasitələri və peşəkar sürücülərimiz sayəsində, dəmirin zərər görmədən və vaxtında çatdırılması üçün ideal bir seçimdir.",
+        "Concrete_transportationmodal": "Beton daşınması xidmətimiz, tikinti sahələrinizə yüksək keyfiyyətli və vaxtında çatdırılmanı təmin edir. Xüsusi beton qarışdırıcı maşınlarla təmin olunan beton, nəqliyyat zamanı müvafiq normativlərə uyğun şəkildə daşınır. Bu, betondan istifadə edəcəyiniz sahədə dayanıqlığı və dözümlülüyü təmin etməyə kömək edir. Betonun təhlükəsiz daşınması və çatdırılması üçün tam təcrübəli heyətimiz sizin yanınızdadır."
+    
+
+        ,
+        "Betonpompasi": "Beton pompası",
+        "Pompazavodu": "Pompa zavodu",
+        "Betonvepompasatishi": "Beton və pompa satışı",
+        "Betonpompasitext": "Betonun sürətli və təhlükəsiz ötürülməsini təmin edən qurğu.",
+        "Pompazavodutext": "Pompa istehsalı və texniki baxım üzrə ixtisaslaşmış müəssisə.",
+        "Betonvepompasatishitext": "Tikinti üçün keyfiyyətli beton və avadanlıq təchizatı.",
+
         
-     
-  }
+        "Betonpompasimodal": "Beton pompası xidmətimiz, tikinti sahələrində betonu lazımi nöqtələrə çatdırmaq üçün ən müasir avadanlıqları təqdim edir. Beton pompası vasitəsilə betonu yüksək mərtəbələrə, dar keçidlərə və çətin əldə edilən yerlərə asanlıqla çatdırmaq mümkündür. Sürətli, dəqiq və təhlükəsiz bir proses təmin etmək üçün peşəkar komanda və etibarlı avadanlıqlar ilə xidmət göstəririk.",
+        "Pompazavodumodal": "Beton pompa zavodu, betonun yüksək keyfiyyətlə və təhlükəsiz şəkildə tökülməsi üçün nəzərdə tutulan proseslərin mərkəzidir. Zavod, pompa sistemlərinin mükəmməl işləməsini təmin edən texnologiyalarla təchiz olunmuşdur. İş zamanı əvvəlcə ərazinin təmizliyi və pompa üçün uyğun şərait yaradılması təmin edilir. Maşın və avadanlıqların yerləşdiriləcəyi sahə dayanıqlı olmalı, qəliblər isə möhkəm və təmiz şəkildə hazırlanmalıdır. Pompa zavodu vasitəsilə beton, qəlibə optimal məsafədən və su qatılmadan şaquli şəkildə tökülür. Tökülmə prosesi zamanı armaturun sabitliyi və betonun homojenliyi təmin edilir. Prosesin sonunda betonun müntəzəm sulanması və nəm saxlanılması üçün tədbirlər görülür. Zavodun bu iş prinsipi, layihələrinizin keyfiyyət və təhlükəsizliyini ən yüksək səviyyədə təmin edir.",
+        "Betonvepompasatishimodal": "Beton və pompa satışı xidmətimiz, müştərilərimizə həm keyfiyyətli beton qarışıqları, həm də ən müasir beton nasoslarını təqdim edir. Fərqli layihələr üçün uyğun məhsul çeşidləri ilə tikinti sahəsində maksimum məhsuldarlıq əldə etməyinizə kömək edirik. Satış sonrası dəstək və texniki xidmətlər də təqdim edərək, müştərilərimizin hər zaman məmnuniyyətini təmin edirik. Keyfiyyət və etibarlılıq bizim üçün əsas prioritetdir."
+    
+    
+        ,
+        "Fibrobeton": "Fibro beton",
+        "Solidbeton": "Solid beton",
+        "Demirbetonmemulatlari": "Dəmir-beton məmulatları",
+        "Tametdashlari": "Tamet daşları",
+        "Polistrenbetondivarlar": "Polistren beton divarlar",
+        "Masamalihorgubloklari": "Məsaməli hörgü blokları",
+        "Qumbetondivarlar": "Qum beton divarlar",
+        "Betondivarbloklari": "Beton divar blokları",
+        "Damirbetonkonstruksiyalari": "Dəmir-beton konstruksiyaları"
+    
+
+        ,
+        "Fibrobetontext": "Yüksək güclü, incə liflərlə möhkəmləndirilmiş beton",
+        "Fibrobetonmodaltext": "Fibro beton, xüsusi olaraq yüksək güc və dayanıqlılıq üçün dizayn edilmiş beton növüdür. İçindəki mikro-fibro materialları betonun möhkəmliyini artırır və çatlama riskini azaldır. Fibro beton, inşaat sektorunda geniş istifadə olunur, xüsusilə yol və körpü tikintilərində, ağır yükləri daşıyan strukturlarda, həmçinin divar örtüklərində və döşəmə səthlərində ideal seçimdir. Profbeton markasının fibro betonu, mükəmməl keyfiyyətə malikdir və uzun ömürlüdür.",
+
+        "Solidbetontext": "Sıx və davamlı beton, güclü strukturlar üçün",
+        "Solidbetonmodaltext": "Solid beton, yüksək sıxlıqlı və davamlı beton növüdür, əsasən tikinti və inşaat sahələrində, ağır yük altında fəaliyyət göstərən strukturlarda istifadə olunur. Bu beton növü, döşəmə, təməl, sütunlar və digər ağır tikinti elementləri üçün mükəmməl uyğun gəlir. Profbeton markasının solid betonu, yüksək keyfiyyəti ilə tanınır və uzunmüddətli performans təmin edir. Sıx və möhkəm strukturlar üçün idealdır.",
+        "Demirbetonmemulatlaritext": "Dəmir və betonun mükəmməl birləşməsi",
+        "Demirbetonmemulatlarimodaltext": "Dəmir-beton məmulatları, betonun gücünü artırmaq üçün içərisinə dəmir barmaqlıqlar əlavə edilərək hazırlanır. Bu material, yüksək gərginlik və ağır yüklərə dözümlü olan tikinti strukturları üçün istifadə olunur. Profbeton markası, inşaatın hər mərhələsində istifadə oluna bilən keyfiyyətli dəmir-beton məmulatları təklif edir, xüsusilə təməl və sütunlarda istifadə edilir. Mükəmməl birləşmə və yüksək möhkəmlik təmin edir.",
+        "Tametdashlaritext": "Estetik və davamlı daş örtükləri",
+        "Tametdashlarimodaltext": "Tamet daşları, yüngül və möhkəm, həm də estetik baxımdan cazibədar olan daş materiallardır. Bu daşlar, əsasən şəhərsalma işlərində, parklar, yollar və meydanlarda istifadə olunur. Profbeton tamet daşları, həm də nəqliyyat vasitələrinin keçişi üçün mükəmməl uyğun gəlir. Yüksək keyfiyyət və davamlılıq təmin edir, estetik görünüşü ilə hər mühitə uyğunlaşır.",
+        "Polistrenbetondivarlartext": "İstilik izolyasiyası üçün effektiv divar materialı",
+        "Polistrenbetondivarlarmodaltext": "Polistren beton divarlar, həm izolyasiya xüsusiyyətlərinə görə, həm də yüksək struktur möhkəmliyinə görə seçilir. Bu material, binanın istilik izolyasiyasını təmin edərək enerji sərfiyyatını azaldır. Profbeton polistren beton divarları, inşaatda istilik qoruma və səs izolyasiyası tələb edən ərazilərdə istifadə olunur. Bu material, uzun ömürlü və iqtisadi cəhətdən faydalıdır",
+
+        "Masamalihorgubloklaritext": "Yüngül və hava keçirmə qabiliyyətli bloklar",
+        "Masamalihorgubloklarimodaltext": "Məsaməli hörgü blokları, yüngül və sıxlığı az olan materiallardır, buna görə də istənilən tikinti layihəsində enerji sərfiyyatını azaldan xüsusiyyətlərə malikdir. Profbeton məsaməli hörgü blokları, binanın divarlarını təşkil edərkən həm izolyasiya, həm də dayanıqlıq təmin edir. Bu bloklar, xüsusilə daxili divar strukturlarında, arxa və tərəf divarlarında geniş istifadə olunur.",
+        "Qumbetondivarlartext": "Dayanıqlı və sərfəli beton divarlar",
+        "Qumbetondivarlarmodaltext": "Qum beton divarlar, betonun möhkəmliyini və qumun iqtisadi üstünlüyünü birləşdirən materialdır. Bu divarlar, sadə strukturlara malik tikinti layihələrində geniş istifadə olunur. Profbeton qum beton divarları, həm struktur dayanıqlılığını, həm də sərfəliliyi təmin edir. Bu material, yerli tikintilərdə və divar inşasında böyük üstünlüklər təqdim edir.",
+        "Betondivarbloklaritext": "Davamlı və möhkəm divar strukturları üçün",
+        "Betondivarbloklarimodaltext": "Beton divar blokları, müxtəlif ölçülərdə və formalarla istehsal edilən, möhkəm və uzun ömürlü divar konstruksiyalarını təmin edən materiallardır. Profbeton beton divar blokları, xüsusilə tikinti sahəsində geniş istifadə olunur. Bu bloklar, ağır yükləri daşıyaraq strukturların uzunmüddətli dayanıqlığını təmin edir. İdeal xüsusiyyətlər və yüksək keyfiyyətlə inşa edilir.",
+        "Damirbetonkonstruksiyalaritext": "Yüksək güclü və davamlı konstruksiya elementləri",
+        "Damirbetonkonstruksiyalarimodaltext": "Dəmir-beton konstruksiyaları, beton və dəmirin mükəmməl birləşməsindən yaranan materiallardır, yüksək gərginlik və yük altında olan strukturlar üçün istifadə olunur. Profbeton markasının dəmir-beton konstruksiyaları, yüksək keyfiyyət və davamlılıq təmin edir. Bu konstruksiyalar, tikintilərdə və infrastruktur layihələrində əsas güc elementləri kimi istifadə olunur."
+        ,
+   "emteebetonutext": "Çeşidli inşaat və kommersiya məqsədli beton",
+   "emteebetonutextmodal": "Əmtəə betonu, müxtəlif inşaat işləri və kommersiya məqsədləri üçün istifadə olunan ümumi beton növüdür. Bu beton, müxtəlif struktur tikintilərində, hətta binaların fasadında istifadə edilə bilər. Profbeton əmtəə betonu, yüksək keyfiyyətli maddələrdən hazırlanır və əhəmiyyətli dərəcədə davamlıdır. Əsasən yolların və binaların inşasında istifadə olunur.",
+        "Sekidashlaritext": "Yüksək keyfiyyətli, davamlı yol örtükləri",
+        "Sekidashlaritextmodal": "Səki daşları, əsasən şəhərsalma və ictimai tikintilərdə istifadə olunur. Profbeton səki daşları, müxtəlif rənglərdə və ölçülərdə istehsal olunur. Bu daşlar, həm estetik cəhətdən gözəl, həm də davamlıdır, beləliklə həm görünüş, həm də uzun ömürlü istifadə təmin edir. Səki daşları, yollar, parklar və meydanlarda geniş istifadə olunur.",
+        "Metalkarkastext": "Tikinti üçün möhkəm metal strukturlar",
+        "Metalkarkastextmodal": " Metal karkaslar, tikintilərin strukturunda istifadə olunan metal çərçivələrdir, bu da böyük binaların və infrastruktur layihələrinin dayanıqlığını təmin edir. Profbeton metal karkasları, möhkəm və davamlı materiallardan hazırlanır və ağır yükləri daşıyır. Bu karkaslar, çoxmərtəbəli binalarda, körpülərdə və digər infrastruktur layihələrində istifadə olunur.",
+        "Divarbloklaritext": " Müxtəlif divar tikintiləri üçün blok materialları",
+        "Divarbloklaritextmodal": "Divar blokları, müxtəlif ölçü və formalarla istehsal edilən, inşaatın əsas materiallarından biridir. Profbeton divar blokları, yüksək keyfiyyətə malikdir və inşaat işlərində əsas strukturların formalaşmasında istifadə olunur. Bu bloklar, divarların və digər tikinti elementlərinin tikilməsində istifadə edilir.",
+        "Betonvequmchinqilistehsalitext": "Yüksək keyfiyyətli beton və qum-çınqıl istehsalı",
+        "Betonvequmchinqilistehsalitextmodal": "Beton və qum-çınqıl, tikinti sahəsində geniş istifadə olunan materiallardır. Profbeton bu materialları yüksək keyfiyyətlə istehsal edir, tikintinin hər mərhələsində istifadə edilə bilər. Beton, müxtəlif strukturların əsasını təşkil edir, çınqıl isə döşəmə və əsas işlərdə geniş istifadə olunur.",
+        "Sementtext": "Tikinti üçün əsas bağlayıcı material",
+        "Sementtextmodal": "Sement, tikinti materialları arasında ən əsas bağlayıcı maddədir. Profbeton sementi yüksək keyfiyyətə malikdir, inşaatın hər mərhələsində, beton hazırlığı, plitələr və digər tikinti işlərində istifadə olunur. Yüksək möhkəmlik və davamlılıq təmin edir."
   
+    }

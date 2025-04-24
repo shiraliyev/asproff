@@ -1,4 +1,3 @@
-// NavBar.js
 import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
@@ -23,32 +22,52 @@ function NavBar() {
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
         <Navbar.Brand href="/">
-          <img src="img/logonav.PNG" alt=""/>
+          <img src="img/betonlogo.png" className='navbarlogoimg' alt=""/>
+          {/* <div className="cube-container">
+  <div className="cube">
+    <div className="cube-side front"></div>
+    <div className="cube-side back"></div>
+    <div className="cube-side left"></div>
+    <div className="cube-side right"></div>
+    <div className="cube-side top"></div>
+    <div className="cube-side bottom"></div>
+
+    <div className="cube-inside"></div>
+  </div>
+</div> */}
+{/* <div className="prof-beton">
+          <div className="prof">Prof</div>
+          <div className="beton">Beton</div>
+        </div> */}
+
         </Navbar.Brand>
-        <div className="navblokbos"></div>
+        {/* 3D Kub burada əlavə edilir */}
+        
+
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto ul">
             <Nav.Link className='li a' href="/">{t('home')}</Nav.Link>
             <Nav.Link className='li a' href="/about">{t('about')}</Nav.Link>
 
-            <NavDropdown title={t('our_companies')} id="basic-nav-dropdown">
-              <NavDropdown.Item href="/profbeton">ProfBeton</NavDropdown.Item>
-              <NavDropdown.Item href="/aslift">As Lift & Elevator</NavDropdown.Item>
-              <NavDropdown.Item href="/BCC">BCC Construction</NavDropdown.Item>
-              <NavDropdown.Item href="/ASPEK">As Prof Engineering Konsaltinq</NavDropdown.Item>
-              <NavDropdown.Item href="/firesafety">Fire Safety Caspian Azerbaijan</NavDropdown.Item>
-              
-              <NavDropdown.Divider />
-              {/* <NavDropdown.Item href="/comanda">
-                {t('shirketlernakomanda-rehberlik1')}
-              </NavDropdown.Item> */}
+            {/* Xidmətlərimiz */}
+            <NavDropdown title={t('services')} id="basic-nav-dropdown" className='centernavbar'>
+              <NavDropdown.Item href="/Dashinma">{t('dashinma')}</NavDropdown.Item>
+              <NavDropdown.Item href="/Nezaret">{t('nezaret')}</NavDropdown.Item>
+              <NavDropdown.Item href="/Bpompalama">{t('Concrete_pumping')}</NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link className='li a' href="/vacancies">{t('career')}</Nav.Link>
+
+            {/* Məhsullar */}
+            <NavDropdown title={t('Products')} id="basic-nav-dropdown" className='centernavbar'>
+              <NavDropdown.Item href="/Betonmehsul">{t('Concreteproducts')}</NavDropdown.Item>
+              <NavDropdown.Item href="/TikintiMateriallari">{t('TikintiMateriallari')}</NavDropdown.Item>
+            </NavDropdown>
+            <Nav.Link className='li a' href="/Galery">{t('GALLERY')}</Nav.Link>
+
             <Nav.Link className='li a' href="/contact">{t('contact')}</Nav.Link>
           </Nav>
           <Nav>
-            <NavDropdown title={capitalize(localStorage.getItem('selectedLanguage') || 'az')} id="language-switcher">
+            <NavDropdown title={capitalize(localStorage.getItem('selectedLanguage') || 'az')} id="language-switcher"className='centernavbar'>
               <NavDropdown.Item onClick={() => changeLanguage('az')}>Az</NavDropdown.Item>
               <NavDropdown.Item onClick={() => changeLanguage('ru')}>Ru</NavDropdown.Item>
               <NavDropdown.Item onClick={() => changeLanguage('en')}>En</NavDropdown.Item>

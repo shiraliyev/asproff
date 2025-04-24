@@ -1,358 +1,141 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
 }
 
-/* .bg3{
-    background-color: rgb(249, 249, 249);
-
-  }
-  .bg4{
-    background-color: rgb(237, 237, 237);} */
-.contactmain{
-    width: 100%;
-
-    background-color:rgb(249, 249, 249);
-}
-.contactsec1{
-    width: 100%;
-    background-color: rgb(249, 249, 249);
-    display:flex;
-    justify-content: center;
-    align-items: center;
-
-}
-.contactsec1div{
-    width: 100%;
-    height: auto;
-    background-color: rgb(7, 48, 82);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
-    padding: 100px 0 70px 0;
-
-}
-.contactblok{
-    width: 25%;
-    height: auto;
-    background-color: rgb(12, 56, 93);
-    padding: 20px 10px 20px 10px;
-margin: 0 auto;
-border-radius: 5px;
-transition: 0.8s;
-cursor: pointer;
-color:  rgb(87, 87, 87);
-
-}
-.contactblok:hover{
-   color: rgba(218, 165, 32, 0.611);
-
-   background-color: rgb(3, 49, 86);
-    
-}
-.contacth2{
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 120px 0 120px 0;
-    font-size: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
-}
-.contacth2aa{
-    text-decoration: none;
-    color:rgb(87, 87, 87) ;
-}
-.contacth2aa:hover{
-    color:rgba(218, 165, 32, 0.611);
-
-}
-.contacth3{
-    width: 100%;
-    height: auto;
-    display: block;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-     font-size: 14px;
-
-}
-.contacth4{
-    width: 100%;
-    height: 20%;
-    display: block;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 15px;
-    text-align: center;
-    margin: 0 0 50px 0;
-    
-}
-.radius{
-    border: 1px rgb(113, 113, 113) solid;
-    padding: 15px;
-   border-radius: 100%;
-   background-color: rgb(9, 57, 96);
-}
-/* ///////////////////////// */
-.contactsec2{
-    width: 100%;
-    height: auto;
-    display: flex;
-    background-color: rgb(7, 48, 82);
-    color: rgb(69, 68, 68);
-transition: 1.2s;
-padding: 70px 0 70px 0;
-}
-
-.contactsec2:hover{
-    color: aqua;
-
-}
-.contactsec2div1{
-    width: 50%;
-    height: 70vh;
-    /* background-color: brown; */
-    display: flex;
-    justify-content: end;
-}
-.contactmaps{
-    width: 90%;
-    height: 70vh;
-    border: none;
-    /* margin: 0 40px; */
-}
-.contactsec2div2{
-      width: 50%;
-      height: 70vh;
-}
-/* .contactsec2div2:hover{
-    color: aqua;
-} */
-.contactsec2div2h2{
-width: 100%;
-height: 100%;
-display: flex;
-justify-content: center;
-align-items: center;
-/* background-color: brown; */
-
-}
-.contactmapss{
-        font-size: 150px;
-        border: 2px aqua solid;
-        padding: 35px;
-        border-radius: 100%;
-animation: fadeIn 5s ease-in-out;
-cursor: pointer;
-margin: -30px 0;
-    /* background-color: brown; */
-}
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-.contactsec2div2h3{
-    /* background-color: blue; */
-    font-size: 40px;
-    display: flex;
-    justify-content: center;
-    
-    margin: -50px  0;
-    font-family: "Fontdiner Swanky", serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
- /*-------------------- RESPONSİVLİK ------------------------*/
-  /* Küçük Ekranlar (Telefonlar) */
-  @media only screen and (max-width: 600px) {
-    /* Örnek: İçerikleri sıralı sütunlar haline getir */
-    .team .container {
-      flex-direction: column;
-    }
-    /* Örnek: Metin boyutlarını küçült */
-    .aboutsec3 .sec3div1 h2 {
-      font-size: 1.5rem;
-    }
-    /* Görüntü boyutlarını ayarla */
-    .team-member img {
-      width: 100px;
-      height: 100px;
-    }
-    .contactsec1div{
-        width: 100%;
-        height: auto;
-        background-color: rgb(7, 48, 82);
-        display: block;
-        margin: 0 auto;
-    }
-    .contactblok{
-    width: 80%;
-    height: auto;
-    background-color: rgb(12, 56, 93);
-    /* margin: 20px 0 0 0 ; */
-    margin:  0 auto;
-    border-radius: 5px;
-    transition: 0.8s;
-    cursor: pointer;
-    color:  rgb(87, 87, 87);
-    display: block;
-    }
-    .contactsec2{
-        width: 100%;
-        height: auto;
-        display: block;
-        background-color: rgb(7, 48, 82);
-        color: rgb(69, 68, 68);
-    transition: 1.2s;
-    padding: 50px 20px 100px 0px;
-    margin: 0 auto;
-
-    }
-    .contactsec2div1{
-        width: 95%;
-        height: 70vh;
-        /* background-color: brown; */
-        display: flex;
-        justify-content: end;
-        margin: 0 auto;
-    }
-    .contactsec2div2{
-        width: 90%;
-        height: 70vh;
-        margin: 0 auto;
-
-  }
-  .contactblokbosluq{
-    width: 100%;
-    height: 30px;
-   
-  }
-  .contactsec2div2h3{
-    /* background-color: blue; */
-    font-size: 40px;
-    display: flex;
-    justify-content: center;
-    
-    margin:  0 auto;
-    font-family: "Fontdiner Swanky", serif;
-    font-weight: 400;
-    font-style: normal;
-}
-.contactsec2:hover{
-  color: aqua;
-
-}
-  }
-  
-  /* Orta Ekranlar (Tabletler) */
-  @media only screen and (min-width: 601px) and (max-width: 1024px) {
-    /* Örnek: İçeriği 2 sütuna ayır */
-    .team .container {
-      flex-direction: row;
-      flex-wrap: wrap;
-      justify-content: space-around;
-    }
-    /* Örnek: Metin boyutlarını ayarla */
-    .aboutsec3 .sec3div1 h2 {
-      font-size: 2rem;
-    }
-    /* Görüntü boyutlarını ayarla */
-    .team-member img {
-      width: 120px;
-      height: 120px;
-    }
-   
-    .contactsec1div{
-      width: 100%;
-      height: auto;
-      background-color: rgb(7, 48, 82);
-      display: block;
-      margin: 0 auto;
-  }
-  .contactblok{
-  width: 60%;
-  height: auto;
-  background-color: rgb(12, 56, 93);
-  /* margin: 20px 0 0 0 ; */
-  margin:  0 auto;
-  border-radius: 5px;
-  transition: 0.8s;
-  cursor: pointer;
-  color:  rgb(87, 87, 87);
-  display: block;
-  }
-  .contactsec2{
-      width: 100%;
-      height: auto;
-      display: block;
-      background-color: rgb(7, 48, 82);
-      color: rgb(69, 68, 68);
-  transition: 1.2s;
-  padding: 50px 20px 100px 0px;
-  margin: 0 auto;
-
-  }
-  .contactsec2div1{
-      width: 95%;
-      height: 70vh;
-      /* background-color: brown; */
-      display: flex;
-      justify-content: end;
-      margin: 0 auto;
-  }
-  .contactsec2div2{
-      width: 90%;
-      height: 70vh;
-      margin: 0 auto;
-
-}
-.contactblokbosluq{
+.contactmain {
   width: 100%;
-  height: 30px;
- 
+  background-color: #eae9e9;
+  padding: 50px 20px;
+  min-height: 100vh; /* Səhifənin hündürlüyünü ekran hündürlüyünə bərabər edir */
 }
-.contactsec2div2h3{
-  /* background-color: blue; */
+
+
+.contactgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  background-color: rgb(249, 249, 249);
+  padding: 20px;
+  margin-top: 100px; /* Grid blokunu aşağı çəkmək üçün */
+}
+
+
+.contactblok {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  min-height: 250px; /* Minimum hündürlük təyin edilir */
+  cursor: pointer;
+  transition: 1s !important;
+}
+
+
+.contactblok:hover {
+  background-color: rgb(5, 70, 123);
+  transform: scale(1.05);
+  color: #fff !important;
+}
+
+.contactblok.highlight {
+  background-color: rgb(7, 70, 130);
+}
+
+.contacth2 {
   font-size: 40px;
-  display: flex;
-  justify-content: center;
-  
-  margin:  0 auto;
-  font-family: "Fontdiner Swanky", serif;
-  font-weight: 400;
-  font-style: normal;
+  margin: 20px 0;
 }
-.contactsec2:hover{
-color: aqua;
+
+.contacth2aa {
+  text-decoration: none;
+  color: rgb(87, 87, 87);
+}
+
+.contacth2aa:hover {
+  color: #fff;
+}
+
+.contacth3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+
+.contacth4 {
+  font-size: 16px;
+  white-space: pre-line; /* New line handling */
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .contactgrid {
+    grid-template-columns: 1fr;
+  }
+}
+.contactmain {
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+.contactgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.contactblok {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contactblok:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+  color: #fff !important;
 
 }
-  }
-  
-  /* Büyük Ekranlar (Masaüstü) */
-  @media only screen and (min-width: 1025px) {
-    /* Örnek: İçeriği 3 sütuna ayır */
-    .team .container {
-      flex-direction: row;
-      flex-wrap: wrap;
-      justify-content: space-around;
-    }
-    /* Örnek: Metin boyutlarını büyüt */
-    .aboutsec3 .sec3div1 h2 {
-      font-size: 2.5rem;
-    }
-    /* Görüntü boyutlarını ayarla */
-    .team-member img {
-      width: 150px;
-      height: 150px;
-    }
-  }
-  
+
+.contacth2 {
+  font-size: 30px;
+  color: #0c385d;
+}
+
+.contacth3 {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #333;
+}
+
+.contacth4 {
+  font-size: 16px;
+  color: #555;
+  white-space: pre-line; /* Məlumatları blokda düz göstərmək üçün */
+}
+.contactblok:hover h2, .contactblok:hover h3, .contactblok:hover h4 {
+  color: #fff; /* Blokdakı mətnlər üçün rəng */
+}
+
+.contactblok:hover i {
+  color: #fff; /* İkonlar üçün rəng */
+}
+
+.contactblok:hover {
+  background-color: rgb(5, 70, 123); /* Blokun arxa fon rəngi */
+  transform: scale(1.05); /* Yüngül böyütmə */
+  transition: all 0.3s ease; /* Keçid effekti */
+}
+
+
+.material-symbols-outlined {
+  font-size: 34px;
+  vertical-align: middle;
+}

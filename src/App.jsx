@@ -14,12 +14,19 @@ import Home from './Companents/Home/Home';
 import About from './Companents/About/About';
 import Contact from './Companents/Contact/Contact';
 import NotFoundPage from './Companents/NotFoundPage/NotFoundPage';
-import Aslift from './Companents/Xidmətlərimiz/Aslift';
-import ASPEK from './Companents/Xidmətlərimiz/ASPEK';
-import BCC from './Companents/Xidmətlərimiz/BCC';
-import Profbeton from './Companents/Xidmətlərimiz/Profbeton';
-import FireSafety from './Companents/Xidmətlərimiz/FireSafety';
+// import Aslift from './Companents/Xidmətlərimiz/Aslift';
+// import ASPEK from './Companents/Xidmətlərimiz/ASPEK';
+// import BCC from './Companents/Xidmətlərimiz/BCC';
+// import Profbeton from './Companents/Xidmətlərimiz/Profbeton';
+// import FireSafety from './Companents/Xidmətlərimiz/FireSafety';
 import Comanda from './Companents/Comanda/Comanda';
+import Nezaret from './Companents/Xidmetlerimiz/Nezaret';
+import Dashinma from './Companents/Xidmetlerimiz/Dashinma';
+import Bpompalama from './Companents/Xidmetlerimiz/Bpompalama';
+import TikintiMateriallari from './Companents/Mehsullar/TikintiMateriallari';
+import Betonmehsul from './Companents/Mehsullar/Betonmehsul';
+import Galery from './Companents/Galery/Galery';
+
 
 
 
@@ -49,11 +56,20 @@ function App() {
         <Route path='/vacancies' element={<Vacancies />} />
         <Route path='/comanda' element={<Comanda />} />
         <Route path='/appeal' element={<Appeal />} />
-        <Route path='/aslift' element={<Aslift />} />
-        <Route path='/firesafety' element={<FireSafety />} />
-        <Route path='/profbeton' element={<Profbeton />} />
-        <Route path='/BCC' element={<BCC />} />
-        <Route path='/ASPEK' element={<ASPEK />} />
+        {/* <Route path='/aslift' element={<Aslift />} /> */}
+        {/* <Route path='/firesafety' element={<FireSafety />} /> */}
+        {/* <Route path='/profbeton' element={<Profbeton />} /> */}
+        {/* <Route path='/BCC' element={<BCC />} /> */}
+        {/* <Route path='/ASPEK' element={<ASPEK />} /> */}
+        {/* <Route path='/Xidmetler' element={<Xidmetler />} /> */}
+        <Route path='/Nezaret' element={<Nezaret />} />
+        <Route path='/Bpompalama' element={<Bpompalama />} />
+        <Route path='/Dashinma' element={<Dashinma />} />
+        <Route path='/TikintiMateriallari' element={<TikintiMateriallari />} />
+        <Route path='/Betonmehsul' element={<Betonmehsul />} />
+        <Route path='/Galery' element={<Galery />} />
+
+       
         <Route path='/*' element={<NotFoundPage />} />
       </Routes>
       <Footer />

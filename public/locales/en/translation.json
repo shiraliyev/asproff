@@ -3,22 +3,50 @@
     "about": "About",
     "contact": "Contact",
     "career": "Career",
-    "our_companies": "Companies",
     "language": "Language",
-   
+
+    "TikintiMateriallari": "Construction materials",
+
+   "dashinma": "Transportation service",
+    "nezaret": "Control service",
+
+"Concrete_transportation": "Concrete transportation",
+ "Quality_control": "Quality control",
+"Concrete_pumping": "Concrete pumping",
+
+"Products": "Products",
+"GALLERY": "Gallery",
+"Concreteproducts": "Concrete products",
+"Constructionequipment": "Construction equipment",
+
+ "Commercialconcrete": "Commercial concrete",
+"Pavementstones": "Pavement stones",
+"Metalframe": "Metal frame",
+ "Wallblocks": "Wall blocks",
+"Concretesand-gravelproduction": "Concrete and sand-gravel production",
+"Quality_control": "Quality control",
+"Concrete_pumping": "Concrete pumping",
 
 
     "number":"Phone number",
     "Email":"Email",
-
+"tehlukesizlikenazarat": "Safety Control",
+"tehlukesizlikenazarattext": "Ensuring a safe environment at work",
+"tehlukesizlikenazarattextmodal": "At Profbeton, safety control is aimed at preventing any risks in the workplace. The company adheres to safety regulations to protect employees' health, conducts regular inspections, and provides training. All risks are carefully analyzed to create a safe working environment, and appropriate measures are taken."
+,
 
       "about_us": "About Us",
-      "trust_and_progress": "Let's rise with confidence, step forward with faith!",
-      "as_prof_group_intro": "At AS PROF Group, we strive to create a strong world together with our customers. Our main goal is to provide our customers with quality and reliable services. We apply a personalized approach to each customer, trying to understand their requirements and needs. By optimizing work processes through innovation and modern technologies, we implement the latest developments. At the same time, with our flexible and adaptive service model, we respond quickly and effectively to the changing needs of our customers. As AS PROF Group, we aim to be with our customers not only today but also in the future, establishing long-term partnerships.",
+      "trust_and_progress": "We always provide high-quality services!",
+      "as_prof_group_intro": "Profbeton manufactures the best products in the concrete sector, tailored to the needs of its customers. Our goal is not only to provide high-quality products, but also to understand the needs of our customers and offer them the most suitable solutions. Profbeton is a trusted partner that is always by your side to achieve safe and sustainable results. By offering long-term and reliable solutions, we make our clients' work easier. Each project requires an individual approach, and we always prioritize customer satisfaction.",
       "our_goal": "Our Goal",
-      "trust_and_progress_2": "Let's move forward with confidence and rise with faith towards our goals.",
-      "as_prof_group_goal": "\"As AS PROF Group, we strive to develop our goals together with our customers. Our main goal is to provide quality and reliable services to our customers, understand their requirements and needs, and optimize work processes using innovation and modern technologies. We aim to be with our customers not only today but also in the future, establishing long-term partnerships.\"",
+     "Profbetonmeqsedbasliq": "Let’s move forward together and rise towards success.",
+      "Profbetonmeqsedtext": "At Profbeton, our primary goal is to create value in the construction sector through close collaboration with our clients. We are committed to understanding our clients' needs and providing them with high-quality and durable solutions. Our aim is to leverage innovative technologies to optimize production processes, consistently meet our clients' expectations, and build long-term business relationships with them. We strive not only to execute today’s projects but also to lay a solid foundation for future generations. Profbeton – your reliable partner on the path to sustainable development.",
+
       "homesec1binatext": "   We trust in a strategy built on honesty, quality, efficiency, collaboration, and entrepreneurship, recognizing the value of our trust.",
+
+      "Bordure": "bordyur",
+      "bordyurtext": "A curbstone separates the edges of roads.",
+      "bordyurmodaltext": "A curb is a stone, either straight or curved, used to define and separate the edges of roads and sidewalks. They are made from concrete, stone, or asphalt and are used to direct water flow and enhance the aesthetic appearance of an area. Curbs are widely used in urban planning, landscape design, and road construction.",
 
 
 
@@ -80,7 +108,136 @@
         "shirketlernakomanda-muraciet2": "Apply"
         
         ,
-        "shirketlernakomanda-footer1": "All rights reserved © 2024 · ASProf Group"
+        "shirketlernakomanda-footer1": "All rights reserved © 2025 · Profbeton"
+        ,
         
+        "keyfiyyetenezaret": "Quality control",
+
+        "istehsalprosesinenezaret": "Production process control",
+        "Betonlaboratoriyalari": "Concrete laboratories"
+        
+        ,
+        "Sementxemiri": "Cement paste"
+        ,
+
+        "keyfiyyetenezarettext": "At each stage, special quality control is applied to ensure the durability of the concrete.",
+        "istehsalprosesinenezarettext": "Full control at every stage to ensure quality.",
+        "Betonlaboratoriyalaritext": "The quality and strength of the concrete are tested through specialized laboratory tests.",
+        "Sementxemiritext": "Cement paste is prepared in appropriate proportions for strong and durable concrete."
+    
+        ,
+
+        "keyfiyyetenezarettextmodal": "Quality control is a process that ensures the compliance of products and services with standards, as well as their reliability and safety. Profbeton MMC continuously monitors the quality of inspection, warranty, and delivery of its products and services.",
+        "istehsalprosesinenezarettextmodal": "Profbeton  controls the production processes in accordance with the international ISO 9001 quality management system and regulatory-technical documents. Our company consistently applies these systems, ensuring that the quality of raw materials and finished products meets international standards.",
+        "Betonlaboratoriyalaritextmodal": "To ensure the high quality of produced concrete products, the quality of raw materials, mineral additives, and finished products is regularly tested in a modern laboratory belonging to the factory and meeting international standards. This provides concrete with properties like water resistance, frost resistance, and sulfate resistance.",
+        "Sementxemiritextmodal": "A concrete mixture consists of five main components: water, cement, aggregates, chemical, and mineral additives. Water and cement create a plastic mass (cement paste) that, through a chemical reaction known as hydration, binds materials into a rock-like mass."
   
+        ,
+
+        "xidmetlerbetondashima": "Concrete transportation",
+        "xidmetlerkeyfiyyetenezaret": "Quality control",
+        "xidmetlerbetonpompalama": "Concrete pumping",
+        "xidmetlerbetondashimabloktext": "Safe and timely delivery of concrete to any destination is ensured.",
+        "xidmetlerkeyfiyyetenezaretbloktext": "Control to ensure product quality.",
+        "xidmetlerbetonpompalamabloktext": "Modern and reliable equipment is used for fast and precise distribution of concrete.",
+        "xidmetlerbetonpompalamamodaltext": "Concrete pumping service delivers concrete quickly and accurately to hard-to-reach areas, high-rise buildings, and narrow spaces using specialized pumps. This process speeds up construction work, ensures even distribution of concrete, and maintains its quality. Profbeton offers safe and high-quality concrete pumping services with modern equipment.",
+
+
+        "emteebetonu": "Commodity concrete",
+        "Sekidashlari": "Paving stones",
+        "Metalkarkas": "Metal framework",
+        "Divarbloklari": "Wall blocks",
+        "Betonvequmchinqilistehsali": "Concrete and sand-gravel production",
+        "Demirbetonmemulatlari": "Reinforced concrete products",
+        "Sement": "Cement",
+        "layiheler": "Projects"
+        ,
+        "yukdashimaxidmeti": "Cargo transportation service",
+        "Universalkonteynerlerindashinmasi": "Transportation of universal containers",
+        "Demirdashima": "Iron transportation",
+        "yukdashimaxidmetitext": "We ensure the safe and quick delivery of your cargo.",
+        "Universalkonteynerlerindashinmasitext": "Reliable and neat transportation of containers of various sizes.",
+        "Demirdashimatext": "Professional and stable transport of iron products.",
+        "Concrete_transportationtext": "Delivery of concrete intact and on time."
+        ,
+        "yukdashimaxidmetimodal": "With our cargo transportation service, we deliver various-sized and categorized cargo safely and efficiently to your desired destination. Our specialized drivers and robust transport vehicles ensure safe cargo transportation. Our order-based planning and tracking system ensures timely and seamless delivery to any location.",
+        "Universalkonteynerlerindashinmasimodal": "The universal container transportation service ensures the safe and reliable delivery of goods. Standard-sized containers provide protection even in challenging conditions, making them ideal for both local and international transportation.",
+        "Demirdashimamodal": "Our iron transportation service delivers iron materials for construction and industrial purposes according to your needs. This service ensures the safe transport of iron products of any size and weight. With specialized vehicles and professional drivers, it is the ideal choice for timely and undamaged delivery of iron.",
+        "Concrete_transportationmodal": "Our concrete transportation service ensures high-quality and timely delivery to your construction sites. Transported in special concrete mixer trucks, the concrete is handled in accordance with regulations during transit, ensuring stability and durability at your application site. Our fully experienced team is available to guarantee the safe transport and delivery of concrete."
+    
+
+        ,
+        "Betonpompasi": "Concrete pump",
+        "Pompazavodu": "Pump plant",
+        "Betonvepompasatishi": "Concrete and pump sales",
+        "Betonpompasitext": "A device that ensures the fast and safe transfer of concrete.",
+        "Pompazavodutext": "A facility specializing in the production and maintenance of pumps.",
+        "Betonvepompasatishitext": "Supply of quality concrete and equipment for construction.",
+
+        
+        "Betonpompasimodal": "Our concrete pump service provides the most advanced equipment to deliver concrete to the necessary points on construction sites. With a concrete pump, it is easy to transport concrete to high floors, narrow passages, and hard-to-reach areas. We ensure a fast, precise, and safe process with a professional team and reliable equipment.",
+        "Pompazavodumodal": "The concrete pump plant is the hub of processes designed for pouring concrete with high quality and safety. The plant is equipped with technologies that ensure the flawless operation of pump systems. During operation, site cleanliness and appropriate conditions for the pump are initially ensured. The area for placing machines and equipment must be stable, and molds must be prepared strong and clean. Using the pump plant, concrete is poured vertically into molds from an optimal distance without adding water. During the pouring process, the stability of the reinforcement and the homogeneity of the concrete are ensured. After the process, measures are taken to regularly water and maintain the concrete's moisture. This plant's operating principles ensure the highest levels of quality and safety for your projects.",
+        "Betonvepompasatishimodal": "Our concrete and pump sales service offers our customers both quality concrete mixtures and the most advanced concrete pumps. We help achieve maximum productivity on construction sites with a range of products suitable for different projects. By providing after-sales support and technical services, we ensure the satisfaction of our customers at all times. Quality and reliability are our top priorities."
+      
+      
+        ,
+        "Fibrobeton": "Fibro concrete",
+        "Solidbeton": "Solid concrete",
+        "Tametdashlari": "Tamet tiles",
+        "Polistrenbetondivarlar": "Polystyrene concrete walls",
+        "Masamalihorgubloklari": "Porous masonry blocks",
+        "Qumbetondivarlar": "Sand concrete walls",
+        "Betondivarbloklari": "Concrete wall blocks",
+        "Damirbetonkonstruksiyalari": "Reinforced concrete structures",
+
+
+        
+          "Fibrobetontext": "High-strength concrete reinforced with fine fibers",
+          "Fibrobetonmodaltext": "Fibro concrete is a type of concrete specifically designed for high strength and durability. The micro-fiber materials inside increase the firmness of the concrete and reduce the risk of cracking. Fibro concrete is widely used in the construction sector, especially in road and bridge construction, structures carrying heavy loads, as well as in wall coverings and floor surfaces. Profbeton brand's fibro concrete has excellent quality and long durability.",
+          
+          "Solidbetontext": "Dense and durable concrete for strong structures",
+          "Solidbetonmodaltext": "Solid concrete is a type of concrete with high density and durability, primarily used in construction and building sectors for structures under heavy load. This type of concrete is ideal for floors, foundations, columns, and other heavy construction elements. Profbeton brand's solid concrete is recognized for its high quality and long-term performance. It is ideal for dense and strong structures.",
+          
+          "Demirbetonmemulatlaritext": "The perfect combination of steel and concrete",
+          "Demirbetonmemulatlarimodaltext": "Steel-concrete products are made by adding steel bars inside concrete to enhance its strength. These materials are used for construction structures that need to withstand high tension and heavy loads. Profbeton offers quality steel-concrete products that can be used at every stage of construction, especially in foundations and columns. It ensures a perfect combination and high strength.",
+          
+          "Tametdashlaritext": "Aesthetic and durable stone coverings",
+          "Tametdashlarimodaltext": "Tamet stones are lightweight, sturdy, and aesthetically appealing stone materials. These stones are mainly used in urban planning, parks, roads, and squares. Profbeton Tamet stones are also perfect for traffic passage. They provide high quality and durability and adapt to any environment with their aesthetic appearance.",
+          
+          "Polistrenbetondivarlartext": "Effective wall material for thermal insulation",
+          "Polistrenbetondivarlarmodaltext": "Polystyrene concrete walls are chosen for both their insulation properties and high structural strength. This material provides thermal insulation for buildings and reduces energy consumption. Profbeton polystyrene concrete walls are used in areas requiring thermal protection and sound insulation in construction. This material is durable and economically beneficial.",
+          
+          "Masamalihorgubloklaritext": "Lightweight and breathable blocks",
+          "Masamalihorgubloklarimodaltext": "Cellular masonry blocks are lightweight and have low density, which helps reduce energy consumption in any construction project. Profbeton cellular masonry blocks provide both insulation and stability when forming the walls of a building. These blocks are widely used in internal wall structures, as well as back and side walls.",
+          
+          "Qumbetondivarlartext": "Durable and cost-effective concrete walls",
+          "Qumbetondivarlarmodaltext": "Sand concrete walls combine the strength of concrete and the economic advantages of sand. These walls are widely used in construction projects with simple structures. Profbeton sand concrete walls ensure both structural stability and cost-effectiveness. This material offers significant advantages in local construction and wall construction.",
+          
+          "Betondivarbloklaritext": "Durable and sturdy wall structures",
+          "Betondivarbloklarimodaltext": "Concrete wall blocks are produced in various sizes and shapes, providing strong and long-lasting wall constructions. Profbeton concrete wall blocks are widely used in the construction sector. These blocks ensure the long-term durability of structures by carrying heavy loads. They are built with ideal features and high quality.",
+          
+          "Damirbetonkonstruksiyalaritext": "High-strength and durable construction elements",
+          "Damirbetonkonstruksiyalarimodaltext": "Steel-concrete constructions are materials made from the perfect combination of concrete and steel, used for structures under high tension and load. Profbeton brand's steel-concrete constructions provide high quality and durability. These constructions are used as key structural elements in construction and infrastructure projects.",
+          
+          "emteebetonutext": "Variety of construction and commercial concrete",
+          "emteebetonutextmodal": "Commodity concrete is a general type of concrete used for various construction works and commercial purposes. This concrete can be used in various structural constructions, including building facades. Profbeton commodity concrete is made from high-quality materials and is significantly durable. It is mainly used in the construction of roads and buildings.",
+          
+          "Sekidashlaritext": "High-quality, durable pavement coverings",
+          "Sekidashlaritextmodal": "Paving stones are mainly used in urban planning and public construction. Profbeton paving stones are produced in various colors and sizes. These stones are both aesthetically beautiful and durable, providing both appearance and long-lasting use. Paving stones are widely used in roads, parks, and squares.",
+          
+          "Metalkarkastext": "Sturdy metal structures for construction",
+          "Metalkarkastextmodal": "Metal frames are used in the structure of buildings, ensuring the stability of large buildings and infrastructure projects. Profbeton metal frames are made from sturdy and durable materials and can carry heavy loads. These frames are used in multi-story buildings, bridges, and other infrastructure projects.",
+          
+          "Divarbloklaritext": "Block materials for various wall constructions",
+          "Divarbloklaritextmodal": "Wall blocks are produced in various sizes and shapes and are one of the essential materials in construction. Profbeton wall blocks are of high quality and are used in the formation of main structures in construction works. These blocks are used in the construction of walls and other construction elements.",
+          
+          "Betonvequmchinqilistehsalitext": "High-quality concrete and sand-gravel production",
+          "Betonvequmchinqilistehsalitextmodal": "Concrete and sand-gravel are widely used materials in construction. Profbeton produces these materials with high quality and can be used in every stage of construction. Concrete forms the foundation of various structures, while gravel is widely used for floors and foundational works.",
+          
+          "Sementtext": "Primary binding material for construction",
+          "Sementtextmodal": "Cement is the most essential binding substance among construction materials. Profbeton cement is of high quality and is used in every stage of construction, including concrete preparation, tiling, and other construction works. It ensures high strength and durability."
+      
+      
+      
+      
       }

@@ -1,0 +1,67 @@
+
+.profbetonxidmetler11 {
+    width: 100%;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 0 0 60px 0;
+  }
+  
+  .profbetonxidmetlerdiv11 {
+    /* width: 90%; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .profbetonxidmetlercardsw {
+    width: 70%;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 60px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2); /* Kölgə effekti */
+}
+
+  
+  .profbetonxidmetlercardsw:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 8px 30px rgba(15, 74, 122, 0.5); /* Kölgə effekti */
+
+  }
+  
+  .profbetonxidmetlercardimg {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .profbetonxidmetlercardtext {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .profbetonxidmetlercardsw h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .profbetonxidmetlercardsw p {
+    font-size: 1em;
+    color: #333;
+  }
+  .swiper-pagination {
+    display: none;
+  }
+  .swiper-button-next{
+    display: none !important;
+  }
+  .swiper-button-prev{
+    display: none !important;
+
+  }

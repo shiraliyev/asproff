@@ -1,11 +1,10 @@
 header {
     width: 100%;
     height: 20vh;
-    background-color: #fff;
+    background-color: #eae9e9 !;
     display: flex;
     justify-content: center;
     width: 100%;
-    background-color: white;
     display: flex;
     justify-content: center;
     box-shadow: 2px 30px 40px 1px rgba(78, 78, 78, 0.243);
@@ -13,10 +12,18 @@ header {
     top: 0;
     z-index: 100;
   }
-  header nav {
+  .bg-body-tertiary{
+    /* background-color: #b9b911 !important; */
+    color: #fff !important;
+    background-color: #eae9e9 !important;
+  }
+  .bg-body-tertiary a {
+    color: rgb(12, 56, 93)!important;
+  }
+  .navbar1 {
     width: 80%;
     height: 20vh;
-    background-color: #fff;
+    background-color: #e6e610 !important;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -166,4 +173,140 @@ header {
 .navbar-nav .nav-link {
   white-space: nowrap; /* Mətnin bir sətirdə göstərilməsi */
   display: inline-block;
+}
+/* Perspektiv effekti ilə 3D görüntü üçün konteyner */
+.cube-container {
+  perspective: 1000px;
+  margin-left: 20px;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Kubun əsas strukturu */
+.cube {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  transform-style: preserve-3d;
+  animation: rotate 20s infinite linear; /* Kubun fırlanması davam edir */
+  margin: 0 auto;
+  transform: rotateX(40deg) rotateY(45deg); /* Kubu yaxşı əymək */
+}
+
+/* Kubun tərəflərini yaratmaq */
+.cube-side {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background-color: transparent;
+  border: 3px solid rgb(12, 56, 93);
+}
+
+/* Kubun hər tərəfini müəyyən etmək */
+.cube-side.front {
+  transform: translateZ(40px);
+}
+
+.cube-side.back {
+  transform: rotateY(180deg) translateZ(40px);
+}
+
+.cube-side.left {
+  transform: rotateY(-90deg) translateZ(40px);
+}
+
+.cube-side.right {
+  transform: rotateY(90deg) translateZ(40px);
+}
+
+.cube-side.top {
+  transform: rotateX(90deg) translateZ(40px);
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.cube-side.bottom {
+  transform: rotateX(-90deg) translateZ(40px);
+  background-color: rgba(0, 0, 0, 0.6);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* Kubun içindəki ekskvator */
+.cube-inside {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 60px;
+  /* background-image: url('img/excavator.png'); */
+  background-size: cover;
+  background-position: center;
+  z-index: 1;
+  animation: slow-rotate 20s infinite linear; /* Yavaş dönmə */
+}
+
+/* Kubun fırlanması üçün animasiya */
+@keyframes rotate {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg); /* Kub tam dövr edir */
+  }
+}
+
+/* Ekskvatorun yavaş dönməsi və tam dönməməsi */
+@keyframes slow-rotate {
+  from {
+    transform: translate(-50%, -50%) rotateY(0deg); /* Başlanğıc vəziyyəti */
+  }
+  to {
+    transform: translate(-50%, -50%) rotateY(30deg); /* Yalnız 30° dövr edir */
+  }
+}
+
+/* "Prof Beton" sözləri */
+.prof-beton {
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  transform: translateY(-50%);
+  font-size: 16px;  /* Mətnin ölçüsünü kiçiltmək */
+  font-weight: bold;
+  color: rgb(12, 56, 93);
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.prof-beton .prof  {
+  font-size: 20px;
+  color: rgb(12, 56, 93);
+}
+
+.prof-beton .beton {
+  font-size: 16px;
+  color: #555;
+  background-color: #e6e610;
+}
+.navbar-brand{
+  width: 360px;
+}
+.navbar-brand img{
+width: 100%;
+height: 100%;
+}/* For small screens (less than or equal to 997px), hide the logo */
+@media (max-width: 550px) {
+  .navbarlogoimg {
+    display: none !important;
+  }
+}
+.centernavbar{
+  text-align: center;
 }

@@ -1,6 +1,6 @@
 main {
   width: 100%;
-  background-color: rgb(250, 246, 246);
+  background-color: #fff;
 }
 /* -----------------------homesec15foto------------------------- */
   /* homesec15foto section */
@@ -645,18 +645,25 @@ main .sec4 .sec4div1 .sec4div1blok2 .sec4blok {
 
 .designmain {
   width: 100%;
-background-color: #faf6f6;
+  background-color: #fff !important;
+
 }
 
 .designmainsec1 {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
+background-color: #faf6f6 !important;
+  
 }
 
 .designmainsec1basliq {
   width: 100%;
   height: auto;
   padding: 20px 0;
+  margin: 0 auto;
+background-color: #fff !important;
+
+
 }
 
 .designmainsec1basliq h2 {
@@ -1244,3 +1251,5 @@ text-align: center;
       font-size: 12px;
     }
   } 
+
+  
